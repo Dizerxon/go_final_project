@@ -13,7 +13,7 @@ API имеет следующие операции:
 5. Изменить параметры задачи
 6. Отметить задачу как выполненную
 
-#Тесты
+# Тесты
 1. go test -run ^TestApp$ ./tests
 2. go test -run ^TestDB$ ./tests
 3. go test -run ^TestNextDate$ ./tests
