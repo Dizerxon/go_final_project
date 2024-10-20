@@ -20,7 +20,7 @@ API имеет следующие операции:
 4. go test -run ^TestAddTask$ ./tests
 5. go test -run ^TestTasks$ ./tests
 6. go test -run ^TestEditTask$ ./tests
-7.1 go test -run ^TestDone$ ./tests
-7.2 go test -run ^TestDelTask$ ./tests
-7.3 go test ./tests - Для прохождения всех тестов сразу
+7. go test -run ^TestDone$ ./tests
+7.1 go test -run ^TestDelTask$ ./tests
+7.2 go test ./tests - Для прохождения всех тестов сразу
 
